@@ -1,1 +1,1 @@
-Get WAVESMILEY on your TERMINAL! All you have to do is send WAVE to 75555 or visit Wavesmiley.com and get up to 20 products and subscribe for only $9.99 a month. Remember, it's Wavesmiley.com[.](https://youtube.com/watch?v=ge3pRglj8D8)
+Get WUMP on your TERMINAL! All you have to do is send WUMP to 75555 or visit Discord.com and get up to 20 products and subscribe for only $9.99 a month. Remember, it's Discord.com[.](https://youtube.com/watch?v=ge3pRglj8D8)
