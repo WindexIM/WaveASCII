@@ -37,4 +37,4 @@ def gif_to_ascii_animation(path, width=80, delay=0.1):
     except KeyboardInterrupt:
         pass
 
-gif_to_ascii_animation("weirdsmiley.gif", width=80, delay=0.1)
+gif_to_ascii_animation("wumpv2.gif", width=80, delay=0.1)
